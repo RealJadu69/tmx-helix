@@ -1,0 +1,8 @@
+---
+
+| || |__ | |_ () |__  _ __
+| __ / ` | ' | | ' | '_ \
+| || _,| |) | | |) | | | |
+_/      |./||./|| ||
+
+Welcome to Project Helix — non-root Termux framework
