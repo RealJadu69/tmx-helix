@@ -1,0 +1,7 @@
+Helix aliases (append to ~/.bashrc or source ~/.helix_aliases)
+
+alias helix='bash ~/project-helix/core/install.sh'
+alias helix-update='bash ~/project-helix/core/update.sh'
+alias helix-serve='bash ~/project-helix/bin/helix-serve'
+alias helix-health='bash ~/project-helix/bin/helix-health-check'
+alias helix-backup='bash ~/project-helix/examples/backup-example.sh'
